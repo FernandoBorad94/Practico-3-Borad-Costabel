@@ -1,0 +1,158 @@
+{
+    "Montevideo": [
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 40.000",
+            "link": "https://www.infocasas.com.uy/¡exclusivo-alquiler-a-estrenar-en-pocitos-divino-apartamento-de-un-dormitorio-completamente-equipado-y-amueblado-listo-para-disfrutar/192763414"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 45.000",
+            "link": "https://www.infocasas.com.uy/apartamento-alquiler-rambla-malvin-2-dormitorios-2-baños-amueblado-terraza/192785745"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 23.500",
+            "link": "https://www.infocasas.com.uy/monoambiente-en-alquiler-con-terraza-sigma-biarritz-frente-al-parque-villa-biarritz-y-a-la-rambla-d/192894850"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 40.000",
+            "link": "https://www.infocasas.com.uy/apartamento-alquiler-/192572009"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 28.500",
+            "link": "https://www.infocasas.com.uy/apartamento-en-alquiler-c-cochera-en-cordon/192769223"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 27.000",
+            "link": "https://www.infocasas.com.uy/alquiler-monoambiente-en-more-buceo/192713274"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 26.300",
+            "link": "https://www.infocasas.com.uy/alquiler-1dormitorio-pocitos-gastos-comunes-bajos-a-una-cuadra-de-la-rambla/192702024"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 26.800",
+            "link": "https://www.infocasas.com.uy/alquiler-apartamento-malvin-1-dormitorio-estrena/192649661"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "U$S 1.050",
+            "link": "https://www.infocasas.com.uy/alquiler-de-apartamento-1-dormitorio-amplia-terraza-en-punta-carretas/192830877"
+        },
+        {
+            "ciudad": "Montevideo",
+            "precio": "$ 39.000",
+            "link": "https://www.infocasas.com.uy/alquiler-punta-carretas-1-dormitorio-frente-con-terrazas-/192749195"
+        }
+    ],
+    "Maldonado": [
+        {
+            "ciudad": "Maldonado",
+            "precio": "$ 8.500",
+            "link": "https://www.infocasas.com.uy/departamento-en-venta-y-alquiler-temporario-rincon-del-indio/192702849"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "U$S 1.800",
+            "link": "https://www.infocasas.com.uy/casa-en-punta-del-este-pinares-del-este-ref-7122/192702591"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "U$S 2.600",
+            "link": "https://www.infocasas.com.uy/punta-del-este/190874164"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "U$S 340",
+            "link": "https://www.infocasas.com.uy/punta-ballena/190841946"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "U$S 5.500",
+            "link": "https://www.infocasas.com.uy/bpvbpv6915-casa-en-alquiler-4-dormitorios/192161462"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "U$S 290",
+            "link": "https://www.infocasas.com.uy/apartamento-en-peninsula-/191756967"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "U$S 50.000",
+            "link": "https://www.infocasas.com.uy/casa-en-alquiler-temporario-de-4-dormitorios-jose-ignacio/191830830"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "U$S 8.500",
+            "link": "https://www.infocasas.com.uy/apartamento-en-venta-y-alquiler-playa-mansa-2-dormitorios-vista-al-mar-y-amenities-premium/192596142"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "U$S 1.000",
+            "link": "https://www.infocasas.com.uy/peninsula/190952755"
+        },
+        {
+            "ciudad": "Maldonado",
+            "precio": "$ 55.000",
+            "link": "https://www.infocasas.com.uy/apartamento-en-peninsula-invernal-/191717684"
+        }
+    ],
+    "Canelones": [
+        {
+            "ciudad": "Canelones",
+            "precio": "$ 65.000",
+            "link": "https://www.infocasas.com.uy/hermosa-casa-en-barra-de-carrasco-3d-2-b-y-garage/192890295"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "$ 19.800",
+            "link": "https://www.infocasas.com.uy/casa-en-buenas-condiciones-sobre-calle-rondeau-esquina-madrid-pinar-norte/189438256"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "U$S 2.700",
+            "link": "https://www.infocasas.com.uy/casa-en-alquiler-de-3-dormitorios-c-cochera-en-parque-miramar/192293416"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "U$S 1.490",
+            "link": "https://www.infocasas.com.uy/apartamento-de-dos-dormitorios-amueblado-en-alquiler-en-parque-carrasco/191817084"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "$ 17.900",
+            "link": "https://www.infocasas.com.uy/alquilo-apartamentos-en-complejo-pinar-norte-ultimas-unidades/192134511"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "U$S 1.650",
+            "link": "https://www.infocasas.com.uy/vilago/192367921"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "U$S 4.400",
+            "link": "https://www.infocasas.com.uy/alquiler-casa-en-lomas-de-la-tahona-8042-naturaleza-y-golf/192746714"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "U$S 4.400",
+            "link": "https://www.infocasas.com.uy/alquiler-casa-en-lomas-de-la-tahona-8042-naturaleza-y-golf/192746714"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "$ 55.000",
+            "link": "https://www.infocasas.com.uy/amplio-apartamento-a-estrenar-estrategicamente-ubicado-cerca-de-todos-los-servicios-esenciales/192890506"
+        },
+        {
+            "ciudad": "Canelones",
+            "precio": "$ 34.500",
+            "link": "https://www.infocasas.com.uy/alquiler-casa-2-dormitorios-en-complejo-cerrado-acacias-ciudad-de-la-costa/192831721"
+        }
+    ]
+}
